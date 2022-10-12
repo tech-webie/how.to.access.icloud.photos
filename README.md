@@ -1,6 +1,6 @@
 # How to Access Icloud Photos
 
-[![how to access icloud photos](redd.png)](https://github.com/tech-webie/how.to.access.icloud.photos)
+[![how to access icloud photos](redd.png)](https://icncomputer.com/how-to-access-icloud-photos/)
 
 As long as you have iCloud Photo Library turned on on your phone, then the pictures you see in the Photos app are your iCloud photos.  It's that simple. However, if you have Optimize Storage turned on, then the photos on your iPhone are just compressed, lower-resolution versions. The full versions are stored in iCloud. You can check if this setting is turned on by going to Settings > [your name] > iCloud > Photos.
 
